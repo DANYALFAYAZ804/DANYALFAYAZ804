@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Danyal Fayaz hero banner" src="dark.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Danyal Fayaz</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 
