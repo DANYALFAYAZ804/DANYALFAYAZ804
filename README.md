@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danyal Fayaz</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Trust-Flow](https://github.com/DANYALFAYAZ804/Final-Year-Project)
+- 🔭 I'm currently working on [Trust-Flow](https://github.com/DANYALFAYAZ804/Final-Year-Project)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I'm currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DANYALFAYAZ804](https://github.com/DANYALFAYAZ804)
 
